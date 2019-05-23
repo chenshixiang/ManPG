@@ -4,6 +4,7 @@ MATLAB implementation of ManPG
 documentation by:
 Shixiang Chen
 chenshxiang@gmail.com
+
 The Chinese University of Hong Kong
 2019
 
@@ -19,8 +20,8 @@ Shixiang Chen, Shiqian Ma, Anthony Man-Cho So and Tong Zhang. Proximal Gradient 
 
 
 ----------------------------------
-- demo_compare_SPCA_dimension_n :  compares 4 algorithms ManPG, PAMAL, SOC and Riemannian subgradient method for solving spare PCA problem with orthogonal constraint
-- demo_compare_CMS_dim_n:  compares 4 algorithms ManPG, PAMAL, SOC and Riemannian subgradient method for solving compressed modes problem
+- SPCA\demo_compare_SPCA_dimension_n :  compares 4 algorithms ManPG, PAMAL, SOC and Riemannian subgradient method for solving spare PCA problem with orthogonal constraint
+- compressed modes\demo_compare_CMS_dim_n:  compares 4 algorithms ManPG, PAMAL, SOC and Riemannian subgradient method for solving compressed modes problem
 ----------------------------------
 
 If you have any questions or find any bugs, feel free to contact Shixiang Chen <chenshxiang@gmail.com>.
