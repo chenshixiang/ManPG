@@ -24,4 +24,9 @@ Shixiang Chen, Shiqian Ma, Anthony Man-Cho So and Tong Zhang. Proximal Gradient 
 - compressed modes\demo_compare_CMS_dim_n:  compares 4 algorithms ManPG, PAMAL, SOC and Riemannian subgradient method for solving compressed modes problem
 ----------------------------------
 
+----------------
+License
+---------------
+MIT
+
 If you have any questions or find any bugs, feel free to contact Shixiang Chen <chenshxiang@gmail.com>.
