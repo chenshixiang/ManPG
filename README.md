@@ -9,7 +9,8 @@ The Chinese University of Hong Kong
 2019
 
 ----------------------------------
-
+Citation
+----------------------------------
 This package contains the code used in the paper "Proximal Gradient Method for Nonsmooth Optimization over the Stiefel Manifold
 ". 
 
